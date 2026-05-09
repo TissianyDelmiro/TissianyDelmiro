@@ -46,8 +46,9 @@ Desenvolvedora em formação, com foco em Análise de Dados, Front-End e Intelig
 
 ## 📊 GitHub Stats
 
-![Tissiany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TissianyDelmiro&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TissianyDelmiro&layout=compact&theme=tokyonight&hide_border=true)
+![Tissiany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TissianyDelmiro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TissianyDelmiro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
