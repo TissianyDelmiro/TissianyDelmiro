@@ -39,7 +39,7 @@ Desenvolvedora em formação, com foco em Análise de Dados, Front-End e Intelig
 
 - 🎓 Google Data Analytics Professional Certificate
 - 🧠 Fundamentos de Machine Learning — USP
-- ☁️ AWS Cloud Computing *(em andamento)*
+- ☁️ Análise de Dados - PrograMaria
 - 🐍 Jornada Python — Hashtag Treinamentos
 
 ---
