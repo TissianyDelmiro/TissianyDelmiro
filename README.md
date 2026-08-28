@@ -1,6 +1,6 @@
 # Olá, eu sou a Tissiany Delmiro 👋
 
-Desenvolvedora em formação, com foco em Análise de Dados, Front-End e Inteligência Artificial. Construo projetos que unem organização de informações, interfaces funcionais e automação inteligente.
+Desenvolvedora em formação, com foco em Análise de Dados, Full Stack e Inteligência Artificial. Construo projetos que unem organização de informações, interfaces funcionais e automação inteligente.
 
 ---
 
