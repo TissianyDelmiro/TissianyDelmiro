@@ -1,69 +1,52 @@
-# Olá, eu sou a Tissiany Delmiro 👋
-
-Desenvolvedora em formação, com foco em Análise de Dados, Full Stack e Inteligência Artificial. Construo projetos que unem organização de informações, interfaces funcionais e automação inteligente.
-
+# Olá, eu sou a Tissiany 👋
+ 
+Uso **IA Generativa para resolver problemas reais**. Trabalho com automação no n8n, agentes de IA e RAG, e estou aprofundando meus estudos em **Python e análise de dados**.
+ 
+Antes de construir, procuro entender quem vai usar. Depois testo e ajusto até funcionar.
+ 
+📍 Fortaleza, CE · 💼 Aberta a oportunidades em automação, IA aplicada e dados
+ 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
-
+ 
+## 🚀 Projetos em destaque
+ 
+| Projeto | Problema que resolve | Stack |
+|---|---|---|
+| 🐾 [Triagem de resgate animal](https://github.com/TissianyDelmiro/triagem-resgate-animal-ia) | ONGs recebem muitos pedidos por dia, e casos graves se perdem na fila. A IA classifica a urgência e alerta voluntários na hora. **Precisão de 71% → 93%** após ciclos de teste. | n8n · Gemini · OpenAI (reserva) · Google Sheets · Gmail |
+| 🤖 [HR Buddy](https://github.com/TissianyDelmiro/hr-buddy-rag-agent) | Colaboradores com dúvidas sobre políticas da empresa. Bot no Telegram que responde com base nos documentos de RH. | n8n · RAG · Cohere · MySQL · Telegram |
+| 📄 [Agente corporativo ÓrbitaTech](https://github.com/TissianyDelmiro/orbitatech-agent) | Informação espalhada em PDFs, planilhas e apresentações. Agente que responde perguntas citando a fonte. | RAG · Cohere · Next.js* |
+| 🐱 [MeowGest](https://github.com/TissianyDelmiro/MeowGest) | Cuidadores de gatos resgatados esquecem vacinas e têm dificuldade de divulgar. App criado a partir de entrevistas com eles, em 14 dias. | Next.js* · Supabase |
+ 
+<sub>* Projetos desenvolvidos com apoio de ferramentas de IA (Claude Code).</sub>
+ 
+---
+ 
+## 🛠️ Tecnologias
+ 
+**Uso no dia a dia**
+ 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+ 
+**IA & Agentes:** RAG · Engenharia de Prompt · LangChain · Cohere · Gemini · Claude Code
+ 
+**Estudando:** Python · AWS · Power BI
+ 
 ---
-
-## 🚀 O que você encontra por aqui
-
-🔹 **Dados & IA** — análise e automação com Python, Pandas e Plotly; projetos de Machine Learning com AWS SageMaker; aplicativos interativos com Streamlit
-
-🔹 **Front-End** — interfaces com HTML, CSS e JavaScript; projetos com foco em UX/UI limpo e funcional; estudos com Flexbox e componentes semânticos
-
-🔹 **Chatbots & Agentes** — integração de APIs de IA com LangChain, Chainlit e Vercel AI SDK; simuladores inteligentes para entrevistas técnicas
-
-🔹 **Cloud & Ferramentas** — estudos de AWS, Power BI, n8n e uso estratégico de IA (Claude, Gemini) na arquitetura de projetos
-
+ 
+## 📚 Formação
+ 
+- 🎓 Google Data Analytics Professional Certificate (Coursera)
+- 🤖 Oracle Next Education (ONE) · Alura
+- ✨ IA Generativa · Geração Tech
+- 🧠 Fundamentos de Machine Learning · USP
 ---
-
-## 📚 Certificações & Formação
-
-- 🎓 Google Data Analytics Professional Certificate
-- 🧠 Fundamentos de Machine Learning — USP
-- ☁️ Análise de Dados - PrograMaria
-- 🐍 Jornada Python — Hashtag Treinamentos
-
----
-
+ 
 ## 📫 Contato
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tissiany%20Delmiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tissiany-delmiro)
-[![GitHub](https://img.shields.io/badge/GitHub-TissianyDelmiro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TissianyDelmiro)
-
----
-
-<p align="center">Desenvolvido com 💙 e muita curiosidade</p>
-
-<!--
-**TissianyDelmiro/TissianyDelmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
