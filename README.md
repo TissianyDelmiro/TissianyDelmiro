@@ -34,7 +34,7 @@ Antes de construir, procuro entender quem vai usar. Depois testo e ajusto até f
  
 **IA & Agentes:** RAG · Engenharia de Prompt · LangChain · Cohere · Gemini · Claude Code
  
-**Estudando:** Python · AWS · Power BI
+**Estudando:** Python · AWS · Power BI · Databricks . Google Cloud . Docker
  
 ---
  
