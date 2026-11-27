@@ -1,18 +1,6 @@
-<!-- ===================== BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6c2bd9,100:00c2a8&height=190&section=header&text=Tissiany%20Delmiro&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20Aplicada%20%E2%80%A2%20Dados&descAlignY=58&descSize=17&animation=fadeIn" />
+<!-- ===================== BANNER ===================== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6c2bd9,100:00c2a8&height=190&section=header&text=Tissiany%20Delmiro&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20Aplicada%20%E2%80%A2%20Dados&descAlignY=58&descSize=17&animation=fadeIn" /> <div align="center"> <!-- Texto digitando --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2A8&center=true&vCenter=true&width=800&height=40&lines=Ol%C3%A1!+Eu+sou+a+Tissiany+%F0%9F%91%8B;Construo+fluxos+com+n8n+%2B+IA+generativa;Agentes%2C+RAG+e+automa%C3%A7%C3%B5es+que+resolvem+problemas;Estudando+Python+e+an%C3%A1lise+de+dados+%F0%9F%90%8D" alt="Typing SVG" /> </a> <br/>
 
-<div align="center">
-
-<!-- Texto digitando -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2A8&center=true&vCenter=true&width=560&lines=Ol%C3%A1!+Eu+sou+a+Tissiany+%F0%9F%91%8B;Construo+fluxos+com+n8n+%2B+IA+generativa;Agentes%2C+RAG+e+automa%C3%A7%C3%B5es+que+resolvem+problemas+reais;Estudando+Python+e+an%C3%A1lise+de+dados+%F0%9F%90%8D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/tissiany-delmiro/"><img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/📍_Fortaleza%2C_CE-1a1b27?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Aberta_a_oportunidades-00c2a8?style=for-the-badge&logoColor=white" />
+<a href="https://www.linkedin.com/in/tissiany-delmiro/"><img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <img src="https://img.shields.io/badge/📍_Fortaleza%2C_CE-1a1b27?style=for-the-badge" /> <img src="https://img.shields.io/badge/Aberta_a_oportunidades-00c2a8?style=for-the-badge&logoColor=white" />
 
 </div>
 
